@@ -2,7 +2,8 @@
               margin: 0;
               padding: 0;
               box-sizing: border-box;
-              /* font-family: monospace; */
+              font-family: monaco;
+              font-weight: 100px;
 }
 
 html,body{
@@ -217,8 +218,8 @@ main .maincontent{
 
 main .maincontent .center{
               height: 100%;
-              width: 97%;
-              /* background-color: #121212; */
+              width: 100%;
+              /* background-color: red; */
               margin-left: auto;
               margin-right: auto;
               margin-bottom: 10px;
@@ -350,10 +351,10 @@ main .maincontent .center .post{
               background-color: #FFFFFF;
 }
 
-main .maincontent .center .postEditor .items{
-  height: 570%;
+.items{
+  height: 100px;
   width: 100%;
-  /* background-color: bisque; */
+  background-color: rgb(238, 145, 32);
   
 }
 
