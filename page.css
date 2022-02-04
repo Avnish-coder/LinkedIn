@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: Monaco;
+  font-family: monaco;
   /* font-size: larger; */
   /* font-weight: 800; */
 }
@@ -288,6 +288,7 @@ font-size: 16px;
 margin: 4px 2px;
 transition-duration: 0.4s;
 cursor: pointer;
+border-radius: 10px;
 
 }
 
@@ -535,7 +536,7 @@ outline: none;
 border: none;
 width: 98%;
 height: 80% ;
-/* color: red; */
+background-color: #EEF3F8;
 border-radius: 10px;
 }
 
